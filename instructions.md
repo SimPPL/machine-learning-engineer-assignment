@@ -1,6 +1,6 @@
 <h1>Machine Learning Engineer Assignment</h1>
 
-We're excited about your interest in SimPPL! This assignment is designed to give you a taste of the kind of data engineering challenges we tackle.  You'll build a system for collecting and analyzing social media data, with a focus on scalability and robust design. You will need to build a basic data collection platform to collect data from some fringe social networks within platform terms of service, in order to answer the question
+We're thrilled you're interested in joining SimPPL! This assignment is designed to give you a taste of the kind of engineering challenges we tackle.  You'll build a system for collecting social media data, with a focus on scalability and robust design. You will need to build a basic data collection platform to collect data from some fringe social networks within platform terms of service. 
 
 <h2>Platform Choices </h2>h2
 Some examples that may guide you in learning more about smaller platforms including some so-called fringe platforms (since there are existing data collection tools for these platforms already), in order of priority for the kinds of platforms we’d like to see you analyze. 
@@ -41,29 +41,22 @@ We have tools for curating and analyzing data from Reddit and Twitter and we bui
 
 <h2>Task Objectives</h2>
 
-1. Data Collection: Develop a scraper to collect data from a social media platform of your choice (see the list below). Your scraper should collect post content, engagement metrics (likes, shares, etc.), user information, and timestamps.
+1. Data Collection: Develop a scraper that collects data from one of the listed social media platforms.  Your scraper should gather post content, engagement metrics (likes, shares, etc.), user information, and timestamps and should be able to collect data based on hashtags, keywords, news links, and user queries. Implementing multiple data collection methods will earn bonus points.
    
 2. System Design: Create a system design (in words and with a diagram) that explains how your data collection solution could be scaled to handle a large volume of data and potentially multiple social media platforms. Consider cloud infrastructure, data storage, processing pipelines, and any APIs or services you would use.
 
-3. Dashboard Development: Build a basic dashboard to visualize some of the collected data. This dashboard should demonstrate your ability to present data in a clear and informative way.
 
 <h2>Rubric for Evaluation</h2>
 
 1. Functionality: Does the scraper work reliably and collect the required data?
 
-2. Scalability: Is the system design well-thought-out and scalable? Does it address potential challenges of handling large datasets and multiple platforms?
+2. Scalability: Is the system design well-thought-out and scalable? Does it address the potential challenges of handling large datasets and multiple platforms? Does the solution scale beyond just one-time searches (e.g. scraping HTML off of web pages may be easy to implement but will not scale to social media, because it may violate some of their terms and will immediately get flagged and blocked).
+   
+3. Data Collection mechanisms: Is there a search functionality for data collection using news URLs, hashtags, keywords, or queries across the platform, made available through this solution?
 
-3. Documentation: Is the code and system design well-documented and easy to understand?
+4. Documentation: Is the code and system design well-documented and easy to understand?
 
-4. Dashboard: Is the dashboard functional and does it present data effectively?
-
-5. Diagram: Is the system diagram clear, well-labeled, and informative? Does it effectively explain the proposed architecture?
-
-Bonus Points:
-
-Cloud Infrastructure: Demonstrate knowledge of cloud platforms (AWS, GCP, Azure) in your system design.
-Data Processing: Incorporate data processing techniques (e.g., cleaning, transformation) into your pipeline.
-Efficient Storage: Show an understanding of efficient data storage solutions (databases, data lakes).
+Bonus Points: Create a system diagram illustrating your architecture for the entire data pipeline, from user queries to data storage.  This diagram should detail how queries are handled, the specific data collected, the processing and transformation steps, and the storage solutions you would use.  Explain how the system would handle concurrent requests and provide a high-level overview of your chosen cloud infrastructure and services, justifying your selection.  A clear, well-explained diagram demonstrating a scalable design is highly valued.
 
 <h2>Instruction for the submission</h2>
 These instructions outline how to use GitHub for this assignment.  Please follow them carefully to ensure your work is properly submitted.
