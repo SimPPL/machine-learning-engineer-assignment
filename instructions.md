@@ -5,7 +5,7 @@ We're thrilled you're interested in joining SimPPL! This assignment is designed 
 ## Platform Choices 
 Some examples that may guide you in learning more about smaller platforms including some so-called fringe platforms (since there are existing data collection tools for these platforms already), in order of priority for the kinds of platforms we’d like to see you analyze. 
 
-Note: Pick a minimum of one and a maximum of two platforms from which you will gather data, present a set of inferences via graphs and analyses, and host your own system with search capabilities for the platform's data. Bonus points if you are able to include mobile-based platforms, conduct multilingual, or multimodal analysis.
+Note: Pick a minimum of one and a maximum of two platforms from which you will gather data, present a set of inferences via graphs and analyses, and host your own system with search capabilities for the platform's data. Bonus points if you are able to include mobile-based platforms, conduct multilingual, or multimodal analysis. We added links to platforms that you may not have heard of to make them easy for you to find.
 
 1. Gab
 2. Threads (Meta)
