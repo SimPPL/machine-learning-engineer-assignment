@@ -63,7 +63,7 @@ These instructions outline how to use GitHub for this assignment. Please follow 
    - Go to your forked repository (it will be in your GitHub account).
    - Click the "Code" button (the green one) and copy the URL. This will be a git URL (ending in .git).
    - Open a terminal or Git Bash on your local machine.
-   - Navigate to the directory where you want to work on the assignment using the cd command. For example: cd /path/to/your/projects.
+   - Navigate to the directory where you want to work on the assignment using the cd command. For example: `cd /path/to/your/projects`.
    - Clone your forked repository using the following command: git clone <your_forked_repository_url> (Replace <your_forked_repository_url> with the URL you copied).
   
    This will download the repository to your local machine.
@@ -80,7 +80,7 @@ These instructions outline how to use GitHub for this assignment. Please follow 
    - Now, commit your staged changes with a descriptive message- git commit -m "Your commit message here" (Replace "Your commit message here" with a brief1 description of the changes you made.2 Be clear and concise!)
    - Push your commits back to your forked repository on GitHub- git push origin main (Or, if you're working on a branch other than main, replace main with your branch name. origin refers to the remote repository you cloned from). 
   
-8. Please notify us of your submission by emailing simppl.collabs@gmail.com with the subject line "Submitting ML Engineer Assignment for SimPPL".
+7. Please notify us of your submission by emailing simppl.collabs@gmail.com with the subject line "Submitting ML Engineer Assignment for SimPPL".
 
 ### Submission Requirements
 
