@@ -103,9 +103,10 @@ Both of these last two make it easier for us to run your code and evaluate the a
 4. [Scrapling](https://github.com/D4Vinci/Scrapling)
 5. [Selenium](https://www.selenium.dev/)
 6. [Puppeteer](https://pptr.dev/)
-7. [Cloudfare Workers](https://workers.cloudflare.com/)
-8. [Apache Superset](https://github.com/apache/superset)
-9. [Terraform](https://www.hashicorp.com/en/products/terraform)
+7. [DuckDB](https://github.com/duckdb/duckdb)
+8. [Cloudfare Workers](https://workers.cloudflare.com/)
+9. [Apache Superset](https://github.com/apache/superset)
+10. [Terraform](https://www.hashicorp.com/en/products/terraform)
 
 #### Note
 
