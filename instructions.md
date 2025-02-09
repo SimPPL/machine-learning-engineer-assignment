@@ -55,11 +55,11 @@ Bonus Points: Create a system diagram illustrating your architecture for the ent
 
 These instructions outline how to use GitHub for this assignment. Please follow them carefully to ensure your work is properly submitted.
 
-1. Fork the Repository:
-   a. Go to the assignment repository provided by the instructor: [Insert Repository Link Here] 
-   b. Click the "Fork" button in the top right corner of the page. This creates a copy of the repository in your GitHub account. 
+1. Fork the Repository:    
+   - Go to the assignment repository provided by the instructor: [Insert Repository Link Here] 
+   - Click the "Fork" button in the top right corner of the page. This creates a copy of the repository in your GitHub account. 
   
-2. Clone Your Fork:
+3. Clone Your Fork:
    a. Go to your forked repository (it will be in your GitHub account).
    b. Click the "Code" button (the green one) and copy the URL. This will be a git URL (ending in .git).
    c. Open a terminal or Git Bash on your local machine.
